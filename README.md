@@ -20,22 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Equilíbrio Vital: Um Guia para Criar e Manter Hábitos Saudáveis
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+E-book feito utilizando o chatpgt com o titulo de: "Equilíbrio Vital: Um Guia para Criar e Manter Hábitos Saudáveis"
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. Pedi sugestões de temas
+2. Depois, com o tema definido escrevi para dividir em tópicos
+3. Pedir pra ele escrever capitulo por capitulo
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- [E-BOOK](https://docs.google.com/document/d/1AAG3PWsS_EA1AkGLKVwp_xnWmNqjk6ifUQecIJDs0PI/edit)
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
 ```
 
 ### Exemplos e Insigths
